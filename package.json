@@ -1,0 +1,20 @@
+{
+  "name": "hanson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sudo nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.6.1",
+    "raw-body": "^2.3.3",
+    "request": "^2.88.0",
+    "sha1": "^1.1.1",
+    "xml2js": "^0.4.19"
+  }
+}
